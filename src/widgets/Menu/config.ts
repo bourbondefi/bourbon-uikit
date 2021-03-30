@@ -99,29 +99,29 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/bourbondefi/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://bourbondefi.gitbook.io/bourbon-finance/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://bourbondefi.medium.com/",
       },
     ],
   },
 ];
 
 export const socials = [
- // {
- //   label: "Telegram",
- //   icon: "TelegramIcon",
- //   items: [
- //     {
- //       label: "English",
- //       href: "https://t.me/goosedefi",
- //     },
+  {
+    label: "Telegram",
+    icon: "TelegramIcon",
+    items: [
+      {
+        label: "English",
+        href: "https://t.me/bourbonfinance",
+      },
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
