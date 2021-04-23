@@ -2124,6 +2124,17 @@ var links = [
 ];
 var socials = [
     {
+        label: "Telegram",
+        icon: "TelegramIcon",
+        items: [
+            {
+                label: "English",
+                href: "https://t.me/Bourbondefichat",
+            },
+            
+        ],
+        },
+    {
         label: "Twitter",
         icon: "TwitterIcon",
         href: "https://twitter.com/FinanceBourbon",

@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/bourbonfinance",
+        href: "https://t.me/Bourbondefichat",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -170,8 +170,8 @@ export const socials = [
      //   label: "Price Bot",
      //   href: "",
      // },
-  //  ],
- // },
+  ],
+  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
